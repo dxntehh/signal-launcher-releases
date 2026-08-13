@@ -1,2 +1,2 @@
 # signal-launcher-releases
-Téléchargements de Signal Launcher — @Unstable Project Team
+Official downloads for Signal Launcher, The DayZ Community launcher by @Unstable Project Team
