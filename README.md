@@ -9,7 +9,7 @@ Le code du launcher n'est pas public.
 ## Télécharger
 
 La dernière version se trouve dans les [Releases](../../releases/latest).
-Téléchargez le fichier `Signal.Launcher_x.y.z_x64-setup.exe`.
+Téléchargez `Signal-Launcher-Setup.exe` — ce nom ne change jamais, quelle que soit la version.
 
 Windows affichera « Windows a protégé votre ordinateur » : le launcher n'est pas
 encore signé électroniquement. Cliquez sur **Informations complémentaires**, puis
