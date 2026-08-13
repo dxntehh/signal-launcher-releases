@@ -20,7 +20,7 @@ Browse community servers, click PLAY, and let it handle the rest.
 
 <br>
 
-![Server list](assets/serveurs.png)
+![Server list](assets/servers.png)
 
 <br>
 
@@ -48,7 +48,7 @@ restart.
 <table>
 <tr>
 <td width="50%"><img src="assets/mods.png" alt="Mods tab"></td>
-<td width="50%"><img src="assets/reglages.png" alt="Settings"></td>
+<td width="50%"><img src="assets/settings.png" alt="Settings"></td>
 </tr>
 <tr>
 <td align="center"><em>Every mod on your machine, its size and its date</em></td>
@@ -56,7 +56,6 @@ restart.
 </tr>
 </table>
 
-<sub>Screenshots taken with the interface in French — English and Russian ship with it.</sub>
 
 <br>
 
