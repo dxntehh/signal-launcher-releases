@@ -118,6 +118,16 @@ fetches the mods and starts the game, with your entitlements.
 Nowhere new: they stay in your Steam folder. The launcher only places links in an
 `!SL` folder inside DayZ. Nothing is duplicated, nothing takes up space twice.
 
+**A mod I deleted keeps coming back. Why?**
+Steam restores anything one of your accounts is subscribed to. The launcher never
+subscribes you to anything — it only asks Steam for the files — and *Delete all
+mods* clears the subscriptions older versions had left behind. If a mod still
+returns, it is subscribed on **another Steam account used on the same PC**: the
+workshop folder belongs to the machine, subscriptions belong to an account, and
+the launcher cannot reach one it is not signed in to. Sign in with that account
+and unsubscribe from the mod's Workshop page. Until then the mod only takes up
+disk space — it is never linked into the game and never joins your session.
+
 **Is the source code public?**
 No. This repository only hosts the downloads; it contains no code.
 
